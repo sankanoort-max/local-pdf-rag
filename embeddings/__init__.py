@@ -1,0 +1,1 @@
+"""Embedding models (text -> vectors)."""
